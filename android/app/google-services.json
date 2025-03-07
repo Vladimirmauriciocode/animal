@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133660015832",
+    "project_id": "aplicacion-ll",
+    "storage_bucket": "aplicacion-ll.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133660015832:android:eeab452a4a3ef73629ebad",
+        "android_client_info": {
+          "package_name": "com.example.zoo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ7G1tFMFazIwmVhX0P4m1LGgUSZH7EhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
